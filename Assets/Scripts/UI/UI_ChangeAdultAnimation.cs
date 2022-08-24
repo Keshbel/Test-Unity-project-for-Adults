@@ -15,15 +15,16 @@ public class UI_ChangeAdultAnimation : MonoBehaviour
     public Button buttonPrev;
     
     // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
+        //подписка методов на кнопки
         if (buttonNext)
             buttonNext.onClick.AddListener(ChangeAnimationNext);
         if (buttonPrev)
             buttonPrev.onClick.AddListener(ChangeAnimationPrev);
     }
 
-    private void ChangeAnimationNext()
+    private void ChangeAnimationNext() //следующая анимация
     {
         idAnimation++;
 
@@ -32,7 +33,7 @@ public class UI_ChangeAdultAnimation : MonoBehaviour
         UpdateInfo();
     }
     
-    private void ChangeAnimationPrev()
+    private void ChangeAnimationPrev() //предыдуща анимация
     {
         idAnimation--;
 
@@ -41,7 +42,7 @@ public class UI_ChangeAdultAnimation : MonoBehaviour
         UpdateInfo();
     }
 
-    private void CheckLimiter()
+    private void CheckLimiter() //проверка на выход за границы и зацикленность
     {
         if (idAnimation < 1)
             idAnimation = 5;
@@ -49,7 +50,7 @@ public class UI_ChangeAdultAnimation : MonoBehaviour
             idAnimation = 1;
     }
 
-    private void UpdateInfo()
+    private void UpdateInfo() //обновление информации
     {
         adultAnimation.AnimationName = idAnimation.ToString();
         numberAnimationText.text = idAnimation.ToString();

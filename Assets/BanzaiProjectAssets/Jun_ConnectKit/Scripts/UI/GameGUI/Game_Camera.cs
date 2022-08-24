@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Game_Camera : Jun_ComponentSingletonObject <Game_Camera> {
 

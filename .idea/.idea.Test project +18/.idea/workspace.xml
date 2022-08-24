@@ -20,23 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1037d55c-02b7-4832-8b51-980c12adfb18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/NetworkManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NetworkManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/StreamingAssets.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BanzaiProjectAssets/Jun_ConnectKit/Scripts/UI/GameGUI/GUI_LoadingUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BanzaiProjectAssets/Jun_ConnectKit/Scripts/UI/GameGUI/GUI_LoadingUI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BanzaiProjectAssets/Jun_ConnectKit/Scripts/UI/GameGUI/Game_Camera.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BanzaiProjectAssets/Jun_ConnectKit/Scripts/UI/GameGUI/Game_Camera.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,12 +42,13 @@
         <option value="$PROJECT_DIR$/Assets/BanzaiProjectAssets/Jun_ConnectKit/PostProcessing/Editor/Utils/PostProcessShaderIncludePath.cs" />
         <option value="$PROJECT_DIR$/Assets/BanzaiProjectAssets/VN Engine/Scripts/Actor.cs" />
         <option value="$PROJECT_DIR$/Assets/BanzaiProjectAssets/Jun_ConnectKit/Scripts/UI/GameGUI/GameGUI_Controller.cs" />
-        <option value="$PROJECT_DIR$/Assets/BanzaiProjectAssets/Jun_ConnectKit/Scripts/UI/GameGUI/Game_Camera.cs" />
         <option value="$PROJECT_DIR$/Assets/BanzaiProjectAssets/Jun_ConnectKit/Scripts/Game/GameController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UI_ClickMeAnimation.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ChangeScene.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UI/UI_ChangeAdultAnimation.cs" />
         <option value="$PROJECT_DIR$/Assets/BanzaiProjectAssets/Jun_ConnectKit/Scripts/UI/GameGUI/GameGUI_LevelComplete.cs" />
+        <option value="$PROJECT_DIR$/Assets/BanzaiProjectAssets/Jun_ConnectKit/Scripts/UI/GameGUI/GUI_LoadingUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/BanzaiProjectAssets/Jun_ConnectKit/Scripts/UI/GameGUI/Game_Camera.cs" />
       </list>
     </option>
   </component>
@@ -77,6 +64,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../Test+18_build\Test project +18.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Keshbel\Documents\GitHub\Test+18_build" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -105,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661259534939</updated>
       <workItem from="1661259560130" duration="2633000" />
-      <workItem from="1661305900750" duration="5192000" />
+      <workItem from="1661305900750" duration="5613000" />
     </task>
     <servers />
   </component>

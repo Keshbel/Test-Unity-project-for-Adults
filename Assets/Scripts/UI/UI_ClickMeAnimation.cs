@@ -5,12 +5,18 @@ using UnityEngine;
 public class UI_ClickMeAnimation : MonoBehaviour
 {
     public float duration = 5f;
+    
     private void Start()
     {
         StartCoroutine(InfinityScaling());
     }
 
-    public IEnumerator InfinityScaling()
+    private void OnDestroy()
+    {
+        StopAllCoroutines();
+    }
+
+    private IEnumerator InfinityScaling() //тряска элемента для привлечения внимания 
     {
         while (true)
         {
