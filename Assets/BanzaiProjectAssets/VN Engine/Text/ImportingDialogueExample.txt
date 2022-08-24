@@ -1,0 +1,26 @@
+Conversation:First
+
+SetMusic:Sound/The-Jazz-Man_Looping - Eric Matyas
+SetBackground:Images/Paris
+EnterActor:Bill
+EnterActor:Claire
+
+Bill:Hi there!
+Claire:This was loaded from a file. Pretty neat huh?
+Bill:Blank lines do nothing
+Bill:Writing 'Conversation:xxxx' makes a new conversation called 'xxxx'
+Claire:Writing 'EnterActor:Actor_Name' creates an EnterActor node calling in 'Actor_Name'
+Claire:Same with ExitActor
+Bill:After importing you will of course have to tweak various settings of the Nodes inside of Unity.
+Claire:Importing a script is useful for getting a start, or if you've already written the script.
+Claire:You can either import .txt files or Microsoft Excel files.
+
+ExitActor:Bill
+ExitActor:Claire
+
+
+
+Conversation:Second
+
+???:This is the second conversation. It is automatically set to start after the first conversation.
+???:You can of course change this by removing this conversation from the First conversation's Start_Conversation_When_Done field.

@@ -1,0 +1,146 @@
+8_Furry Cyberpunk.png
+	size: 4096, 4096
+	filter: Linear, Linear
+	pma: true
+angry_Layer 121
+	bounds: 2, 3833, 258, 258
+angry_Layer 83
+	bounds: 2584, 1924, 470, 80
+happy_Layer 83
+	bounds: 2584, 1924, 470, 80
+neitral_Layer 83
+	bounds: 2584, 1924, 470, 80
+normal_Layer 83
+	bounds: 2584, 1924, 470, 80
+sad_Layer 83
+	bounds: 2584, 1924, 470, 80
+angry_Layer17
+	bounds: 2, 1658, 383, 127
+angry_Layer21
+	bounds: 2066, 3215, 514, 258
+happy_Layer21
+	bounds: 2066, 3215, 514, 258
+neitral_Layer21
+	bounds: 2066, 3215, 514, 258
+normal_Layer21
+	bounds: 2066, 3215, 514, 258
+sad_Layer21
+	bounds: 2066, 3215, 514, 258
+angry_brows
+	bounds: 983, 3976, 467, 115
+body
+	bounds: 2, 378, 1224, 1915
+	rotate: 270
+dress_Layer 282
+	bounds: 1918, 188, 1078, 594
+	rotate: 90
+dress_body
+	bounds: 1582, 1268, 1224, 1945
+	rotate: 180
+dress_cl_top
+	bounds: 2555, 362, 1560, 896
+	rotate: 90
+dress_l_leg
+	bounds: 2711, 3053, 1017, 1038
+dress_r_arm_1
+	bounds: 2808, 2093, 363, 958
+dress_r_arm_2
+	bounds: 2, 52, 392, 830
+	rotate: 90
+dress_r_arm_3
+	bounds: 3730, 3689, 361, 402
+dress_r_leg
+	bounds: 3225, 1791, 752, 1260
+	rotate: 180
+hair_back
+	bounds: 2, 1390, 1610, 2701
+happy_Layer 103
+	bounds: 3453, 341, 714, 589
+	offsets: 136, 17, 1026, 642
+	rotate: 90
+happy_brows
+	bounds: 2218, 3475, 457, 42
+normal_brows
+	bounds: 2218, 3475, 457, 42
+happy_eyes
+	bounds: 2, 1787, 383, 127
+neitral_Layer 124
+	bounds: 2, 1787, 383, 127
+normal_Layer 124
+	bounds: 2, 1787, 383, 127
+neitral_Layer 281
+	bounds: 1604, 2212, 403, 469
+	offsets: 0, 10, 404, 479
+neitral_brows
+	bounds: 879, 1305, 463, 83
+r_arm_1
+	bounds: 834, 21, 363, 959
+	rotate: 270
+r_leg
+	bounds: 1201, 3339, 752, 1260
+	rotate: 90
+sad_Layer 102
+	bounds: 3453, 1057, 642, 386
+	rotate: 90
+sad_Layer 124
+	bounds: 1440, 3211, 383, 127
+tubes
+	bounds: 2, 3620, 161, 211
+	offsets: 0, 0, 162, 211
+
+8_Furry Cyberpunk_2.png
+	size: 4096, 4096
+	filter: Linear, Linear
+	pma: true
+angry_head
+	bounds: 1224, 572, 710, 737
+boop1
+	bounds: 2, 1556, 466, 658
+	offsets: 61, 0, 699, 698
+	rotate: 180
+boop2
+	bounds: 313, 748, 691, 743
+	offsets: 8, 0, 699, 760
+	rotate: 270
+dress_boop1
+	bounds: 413, 1867, 445, 658
+	offsets: 84, 0, 699, 698
+	rotate: 90
+dress_boop2
+	bounds: 278, 1184, 686, 744
+	offsets: 11, 0, 699, 760
+	rotate: 90
+dress_l_arm_2
+	bounds: 220, 2402, 725, 854
+	rotate: 90
+dress_neck
+	bounds: 410, 2923, 487, 482
+	offsets: 17, 251, 504, 733
+	rotate: 90
+dress_tail
+	bounds: 353, 505, 2127, 1141
+	rotate: 90
+happy_head
+	bounds: 890, 3011, 719, 734
+l_arm_2
+	bounds: 163, 3083, 725, 854
+	rotate: 90
+l_leg
+	bounds: 1592, 2, 1017, 1038
+	rotate: 90
+neitral_ears
+	bounds: 2, 3216, 461, 592
+	offsets: 15, 16, 496, 608
+neitral_head
+	bounds: 1146, 1424, 709, 737
+	offsets: 0, 0, 710, 737
+normal_hair_top
+	bounds: 1841, 1541, 822, 948
+normal_head
+	bounds: 1370, 2486, 710, 737
+r_arm_2
+	bounds: 105, 2187, 392, 830
+	rotate: 90
+sad_head
+	bounds: 853, 7, 710, 737
+	rotate: 90

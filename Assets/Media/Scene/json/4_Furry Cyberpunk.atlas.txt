@@ -1,0 +1,197 @@
+4_Furry Cyberpunk.png
+	size: 4096, 4096
+	filter: Linear, Linear
+	pma: true
+Layer 2
+	bounds: 1144, 1126, 176, 179
+Layer 4
+	bounds: 2919, 41, 198, 287
+Layer 5
+	bounds: 2469, 1112, 180, 159
+Layer 8
+	bounds: 2469, 57, 448, 590
+a_bracelet
+	bounds: 2919, 330, 310, 261
+	rotate: 90
+ahegao_nose
+	bounds: 1482, 1273, 158, 209
+breast3
+	bounds: 75, 160, 1281, 1322
+	rotate: 90
+cat_hand
+	bounds: 2930, 1605, 430, 539
+	offsets: 19, 15, 449, 554
+	rotate: 180
+cat_penis
+	bounds: 3633, 20, 283, 461
+	offsets: 0, 0, 284, 465
+	rotate: 90
+cat_torso
+	bounds: 2, 1307, 1272, 1771
+	rotate: 90
+dress_bust
+	bounds: 2, 2581, 1493, 1513
+dress_hip
+	bounds: 1775, 1273, 1153, 1246
+dress_kruglyash
+	bounds: 3590, 3297, 797, 421
+	rotate: 90
+dress_ribbons
+	bounds: 1496, 2521, 1573, 1401
+	rotate: 90
+dress_sleeve
+	bounds: 2900, 2944, 688, 1150
+dress_torso
+	bounds: 1399, 171, 1068, 1100
+dress_trouser leg
+	bounds: 2469, 642, 1509, 1636
+	offsets: 0, 0, 1779, 1636
+ear1
+	bounds: 1457, 2149, 301, 370
+face1_mouth
+	bounds: 2, 62, 319, 277
+	offsets: 0, 114, 319, 472
+	rotate: 180
+face1_nose
+	bounds: 2, 562, 165, 213
+face2_mouth
+	bounds: 3590, 3058, 319, 237
+hip1
+	bounds: 3122, 15, 972, 1048
+	rotate: 180
+hip2
+	bounds: 2930, 2131, 916, 1112
+	offsets: 0, 16, 916, 1128
+	rotate: 90
+nipple
+	bounds: 3793, 1063, 380, 248
+	rotate: 90
+shin1
+	bounds: 2, 777, 356, 620
+wrist
+	bounds: 2900, 2691, 409, 251
+
+4_Furry Cyberpunk_2.png
+	size: 4096, 4096
+	filter: Linear, Linear
+	pma: true
+Layer 1
+	bounds: 819, 3501, 234, 298
+Layer 3
+	bounds: 3101, 608, 593, 865
+	rotate: 90
+Layer 6
+	bounds: 2, 1484, 525, 846
+	rotate: 90
+Layer 7
+	bounds: 2441, 3577, 286, 517
+ahegao_blush
+	bounds: 2, 668, 814, 602
+	rotate: 90
+ahegao_brows
+	bounds: 579, 3158, 593, 331
+ahegao_eyes3
+	bounds: 514, 3486, 603, 359
+	rotate: 90
+ahegao_mouth
+	bounds: 1402, 3430, 319, 370
+bang
+	bounds: 1687, 2137, 827, 850
+	rotate: 270
+breast
+	bounds: 1286, 1504, 726, 795
+	offsets: 0, 0, 726, 806
+	rotate: 270
+breast4
+	bounds: 794, 962, 708, 880
+	offsets: 25, 0, 733, 907
+	rotate: 270
+cat_forearm
+	bounds: 2493, 2719, 966, 424
+	rotate: 180
+cat_forearm2
+	bounds: 1739, 3113, 500, 662
+	rotate: 90
+cat_hand3
+	bounds: 1679, 3613, 481, 338
+	offsets: 0, 9, 487, 347
+	rotate: 270
+cat_shoulder
+	bounds: 3353, 2470, 741, 899
+cat_shoulder1
+	bounds: 1072, 2116, 734, 904
+	offsets: 120, 31, 854, 935
+	rotate: 90
+cat_tail
+	bounds: 2628, 1767, 1121, 988
+	rotate: 180
+decorations
+	bounds: 604, 158, 828, 932
+	rotate: 90
+dress_sleeve1
+	bounds: 3146, 3646, 357, 448
+ear
+	bounds: 2, 2907, 522, 664
+	offsets: 36, 3, 564, 667
+	rotate: 270
+face1_brows
+	bounds: 2, 3699, 593, 331
+	rotate: 180
+face1_eyes3
+	bounds: 1073, 3491, 603, 365
+	rotate: 90
+face2_blush
+	bounds: 1556, 390, 831, 642
+face2_brows
+	bounds: 2, 3763, 593, 331
+face2_eyes3
+	bounds: 2, 3514, 539, 394
+	offsets: 0, 11, 539, 405
+face2_nose
+	bounds: 88, 3431, 243, 285
+	rotate: 90
+forearm
+	bounds: 3423, 3368, 726, 446
+	rotate: 270
+hair
+	bounds: 2, 1774, 1018, 1184
+	rotate: 270
+hair3
+	bounds: 1142, 2848, 476, 1199
+	rotate: 270
+hip
+	bounds: 2279, 1203, 824, 1501
+	rotate: 270
+neck
+	bounds: 591, 2399, 701, 757
+	offsets: 0, 3, 701, 760
+	rotate: 180
+nipple1
+	bounds: 875, 3801, 328, 250
+shin
+	bounds: 2816, 3077, 811, 401
+	offsets: 0, 0, 811, 454
+shoulder
+	bounds: 1850, 791, 836, 1249
+	rotate: 270
+sleeve1
+	bounds: 2729, 3407, 687, 415
+	rotate: 270
+wrist2
+	bounds: 2006, 3422, 672, 434
+	rotate: 90
+
+4_Furry Cyberpunk_3.png
+	size: 4096, 4096
+	filter: Linear, Linear
+	pma: true
+cat_hip
+	bounds: 2, 1179, 1219, 1303
+dress_belt
+	bounds: 2, 329, 735, 848
+tail
+	bounds: 876, 2, 2340, 1368
+	rotate: 270
+tum
+	bounds: 1022, 1161, 993, 952
+	rotate: 270
