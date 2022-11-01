@@ -10,8 +10,11 @@
 ![image](https://user-images.githubusercontent.com/85021488/199193129-5f29d146-257f-4c1f-9919-6fbc700b09c9.png)
 
 <details>
+  
 [![SPOILER! +18 Content][1]][1]
+  
 [1]: https://user-images.githubusercontent.com/85021488/199193171-c8fb8275-551a-4e4b-ad39-d025f61e7916.png
+  
 </details>
 
 <details>
