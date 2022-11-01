@@ -11,7 +11,7 @@
 
 <details>
 [![SPOILER! +18 Content][1]][1]
-![image](https://user-images.githubusercontent.com/85021488/199193171-c8fb8275-551a-4e4b-ad39-d025f61e7916.png)
+[1]: https://user-images.githubusercontent.com/85021488/199193171-c8fb8275-551a-4e4b-ad39-d025f61e7916.png
 </details>
 
 <details>
