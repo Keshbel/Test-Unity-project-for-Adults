@@ -10,7 +10,6 @@ The “employer” company provided the background, as well as characters animat
 The test itself looked similar - https://docs.google.com/document/d/1d3zWDf_GyRQQp3pU4nUOHBGyJSrlkqSmAxAtBCjAyb0/edit.
 
 
-
 RU:
 Тестовый Unity проект для BanzaiProject (+18). Визуальная новелла с простенькой головоломкой, после решения которой можно посмотреть анимации +18.
 
