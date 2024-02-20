@@ -1,10 +1,22 @@
 # Test-Unity-project-for-Adults
+EN:
+Test Unity project for BanzaiProject (+18). A visual novel with a simple puzzle, after solving which you can watch +18 animations.
+
+For dialogues, the VN engine asset was used.
+For the Jun_ConnectKit puzzle.
+For the design of GUI Kit Casual Game.
+The “employer” company provided the background, as well as characters animated in Spine (json, atlas.txt and png). 2 characters + their general animation.
+
+The test itself looked similar - https://docs.google.com/document/d/1d3zWDf_GyRQQp3pU4nUOHBGyJSrlkqSmAxAtBCjAyb0/edit.
+
+RU:
 Тестовый Unity проект для BanzaiProject (+18). Визуальная новелла с простенькой головоломкой, после решения которой можно посмотреть анимации +18.
 
 Для диалогов использовался ассет VN engine. 
 Для головоломки Jun_ConnectKit. 
 Для оформления GUI Kit Casual Game. 
 От компании "работадателя" был предоставлен фон, а также анимированные в Spine персонажи(json, atlas.txt и png). 2 персонажа + их общая анимация.
+
 Само тестовое выглядело подобным образом - https://docs.google.com/document/d/1d3zWDf_GyRQQp3pU4nUOHBGyJSrlkqSmAxAtBCjAyb0/edit.
 
 ![image](https://user-images.githubusercontent.com/85021488/199193129-5f29d146-257f-4c1f-9919-6fbc700b09c9.png)
